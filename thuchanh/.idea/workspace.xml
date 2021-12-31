@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d0bca8a-a9ba-4aaf-b48c-9564e2286ffc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/kiemtra/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/kiemtra/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiemtra/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/kiemtra/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiemtra/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/kiemtra/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiemtra/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/kiemtra/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiemtra/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/kiemtra/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiemtra/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/kiemtra/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiemtra/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/kiemtra/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiemtra/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/kiemtra/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/md4/awesome.json" beforeDir="false" afterPath="$PROJECT_DIR$/md4/awesome.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/kiemtra" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="22tAmjOHDII3FaMU0slpiYIbJF0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/kiemtra/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kiemtra/src/app/components/admin/fontend" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d0bca8a-a9ba-4aaf-b48c-9564e2286ffc" name="Changes" comment="" />
+      <created>1640646670339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640646670339</updated>
+      <workItem from="1640646671524" duration="380000" />
+      <workItem from="1640657490358" duration="13917000" />
+      <workItem from="1640672662798" duration="1133000" />
+      <workItem from="1640673798057" duration="33000" />
+      <workItem from="1640673850646" duration="35000" />
+      <workItem from="1640674066851" duration="2396000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
